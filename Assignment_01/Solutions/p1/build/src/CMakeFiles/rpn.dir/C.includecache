@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/briansherif/Desktop/Fezi/src/rpn-stack.c
+rpn-stack.h
+/Users/briansherif/Desktop/Fezi/src/rpn-stack.h
+stdlib.h
+-
+stdio.h
+-
+
+/Users/briansherif/Desktop/Fezi/src/rpn-stack.h
+
+/Users/briansherif/Desktop/Fezi/src/rpn.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+stdint.h
+-
+string.h
+-
+rpn-stack.h
+/Users/briansherif/Desktop/Fezi/src/rpn-stack.h
+rpn.h
+/Users/briansherif/Desktop/Fezi/src/rpn.h
+
+/Users/briansherif/Desktop/Fezi/src/rpn.h
+

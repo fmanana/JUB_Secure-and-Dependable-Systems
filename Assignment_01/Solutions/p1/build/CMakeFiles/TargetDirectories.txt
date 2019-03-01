@@ -1,0 +1,11 @@
+/Users/briansherif/Desktop/Fezi/build/CMakeFiles/rebuild_cache.dir
+/Users/briansherif/Desktop/Fezi/build/CMakeFiles/edit_cache.dir
+/Users/briansherif/Desktop/Fezi/build/CMakeFiles/test.dir
+/Users/briansherif/Desktop/Fezi/build/src/CMakeFiles/rebuild_cache.dir
+/Users/briansherif/Desktop/Fezi/build/src/CMakeFiles/edit_cache.dir
+/Users/briansherif/Desktop/Fezi/build/src/CMakeFiles/test.dir
+/Users/briansherif/Desktop/Fezi/build/src/CMakeFiles/rpn.dir
+/Users/briansherif/Desktop/Fezi/build/test/CMakeFiles/rebuild_cache.dir
+/Users/briansherif/Desktop/Fezi/build/test/CMakeFiles/edit_cache.dir
+/Users/briansherif/Desktop/Fezi/build/test/CMakeFiles/test.dir
+/Users/briansherif/Desktop/Fezi/build/test/CMakeFiles/check-rpn.dir
